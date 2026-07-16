@@ -13,7 +13,7 @@ dependencies:
   - scipy
   - matplotlib
   - jupyterlab
-  - pdal
+  # - pdal
 
   # Pip-Pakete
   - pip:
