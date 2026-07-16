@@ -4,7 +4,6 @@ matplotlib
 pandas
 open3d
 polars
-pyspark
 pybind11
 ipython
 fastparquet
@@ -32,7 +31,6 @@ joblib
 ray
 dask
 h5py
-h5json
 raytracing
 rayoptics
 trimesh
