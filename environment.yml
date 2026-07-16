@@ -8,11 +8,8 @@ dependencies:
   - pip
 
   # Conda-Pakete
-  - numpy
-  - pandas
-  - scipy
-  - matplotlib
-  - jupyterlab
+  - h5json
+  - pyspark
   # - pdal
 
   # Pip-Pakete
