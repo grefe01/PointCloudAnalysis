@@ -9,7 +9,7 @@ dependencies:
 
   # Conda-Pakete
   - pyspark
-  # - pdal
+  - pdal
 
   # Pip-Pakete
   - pip:
