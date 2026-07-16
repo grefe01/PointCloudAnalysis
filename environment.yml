@@ -8,7 +8,6 @@ dependencies:
   - pip
 
   # Conda-Pakete
-  - h5json
   - pyspark
   # - pdal
 
