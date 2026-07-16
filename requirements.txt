@@ -1,6 +1,3 @@
-pip
-wheel
-config
 numpy
 scipy
 matplotlib
@@ -22,8 +19,6 @@ laspy
 panda3d
 plotly
 bokeh
-python-pcl
-pytorch
 pyarrow
 pyvista
 pyntcloud
@@ -31,17 +26,13 @@ pymeshlab
 scikit-learn
 scikit-spatial
 scikit-build
-cuda-toolkit
 fmpy 
 rerun-sdk
 joblib
 ray
 dask
-asyncio
 h5py
 h5json
-neonutilities
-rayoptix
 raytracing
 rayoptics
 trimesh
