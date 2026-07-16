@@ -6,9 +6,9 @@ channels:
 dependencies:
   - python=3.11
   - pip
-
-  # Conda-Pakete
-  # - pdal
+  - jupyterlab
+  - ipykernel
+  - pdal
   - pyspark
 
   # Pip-Pakete
