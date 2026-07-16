@@ -1,0 +1,20 @@
+name: binder-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pip
+
+  # Conda-Pakete
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - pdal
+
+  # Pip-Pakete
+  - pip:
+      - -r requirements.txt
