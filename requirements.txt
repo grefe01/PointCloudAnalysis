@@ -10,6 +10,7 @@ polars
 pyspark
 pybind11
 ipython
+fastparquet
 cython
 cmake
 cffi
@@ -21,10 +22,14 @@ laspy
 panda3d
 plotly
 bokeh
+python-pcl
+pytorch
+pyarrow
 pyvista
 pyntcloud
 pymeshlab
 scikit-learn
+scikit-spatial
 scikit-build
 cuda-toolkit
 fmpy 
