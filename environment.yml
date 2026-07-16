@@ -8,8 +8,8 @@ dependencies:
   - pip
 
   # Conda-Pakete
-  - pyspark
   - pdal
+  - pyspark
 
   # Pip-Pakete
   - pip:
