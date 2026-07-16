@@ -8,7 +8,7 @@ dependencies:
   - pip
   - jupyterlab
   - ipykernel
-  - pdal
+  # - pdal
   - pyspark
 
   # Pip-Pakete
