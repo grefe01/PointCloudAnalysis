@@ -5,11 +5,23 @@ channels:
 
 dependencies:
   - python=3.11
-  - pip
   - jupyterlab
   - ipykernel
-  # - pdal
+  - pdal
   - pyspark
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pyarrow
+  - polars
+  - laspy
+  - plotly
+  - bokeh
+  - trimesh
+  
+  - pip
 
   # Pip-Pakete
   - pip:
