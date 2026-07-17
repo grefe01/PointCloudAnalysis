@@ -1,9 +1,4 @@
-numpy
-scipy
-matplotlib
-pandas
 open3d
-polars
 pybind11
 ipython
 fastparquet
@@ -14,15 +9,10 @@ opencv-python
 tensorflow
 torch
 keras
-laspy
 panda3d
-plotly
-bokeh
-pyarrow
 pyvista
 pyntcloud
 pymeshlab
-scikit-learn
 scikit-spatial
 scikit-build
 fmpy 
@@ -33,4 +23,3 @@ dask
 h5py
 raytracing
 rayoptics
-trimesh
