@@ -13,6 +13,7 @@ panda3d
 pyvista
 pyntcloud
 pymeshlab
+memory_profiler
 scikit-spatial
 scikit-build
 fmpy 
