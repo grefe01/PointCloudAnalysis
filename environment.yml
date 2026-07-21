@@ -8,8 +8,8 @@ dependencies:
   - jupyterlab
   - ipykernel
   - pdal
-  - ca-certificates-2026.6.17
-  - certifi-2026.6.17
+  - ca-certificates=2026.6.17
+  - certifi=2026.6.17
   - pyspark
   - numpy
   - scipy
